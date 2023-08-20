@@ -14,7 +14,7 @@
     "forceConsistentCasingInFileNames": true,
     "outDir": "./dist",
     "typeRoots": ["./types", "./node_modules/@types"],
-    "types": ["node"]
+    "types": ["solc","node"]
   },
   "include": [
     "src/**/*"
