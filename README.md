@@ -37,14 +37,15 @@ Run
 
 npm run compile
 
+![compile utility1](https://github.com/coladimeji/canon/assets/32521595/bf8ef381-3b7d-4717-afa6-13f808af0436)
+
+
 NOTE: check to see that all package bytes are installed correctly and there is no problem
 Run
 
 npm run deploy
 
 see screen shots
-compile
-
 
 deploy
 ![Alt text](image.png)
