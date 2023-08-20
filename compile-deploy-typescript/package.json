@@ -1,0 +1,30 @@
+{
+    "type": "module",
+    "name": "canon",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "tsc",
+        "start": "node dist/deploy.js",
+        "compile": "tsc && node dist/compile.js",
+        "deploy": "tsc && node dist/deploy.js",
+        "interact": "tsc && node dist/interact.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/dotenv": "^8.2.0",
+        "@types/node": "^20.5.1",
+        "@types/web3": "^1.2.2"
+    },
+    "dependencies": {
+        "all": "^0.0.0",
+        "dotenv": "^16.3.1",
+        "solc": "^0.8.21",
+        "web3": "^4.1.0",
+        "web3-errors": "^1.1.0"
+    }
+}
