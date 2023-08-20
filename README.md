@@ -44,7 +44,7 @@ npm run deploy
 
 see screen shots
 compile
-![Alt text](image.png)
+
 
 deploy
 ![Alt text](image.png)
